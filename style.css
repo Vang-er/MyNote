@@ -88,3 +88,9 @@ footer div {
   width: 6vw;
   height: auto;
 }
+.github {
+  transition: scale 0.3s ease;
+}
+.github:hover {
+  scale: 110%;
+}
